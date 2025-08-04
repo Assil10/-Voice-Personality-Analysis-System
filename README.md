@@ -343,9 +343,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/voice-personality-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/voice-personality-ai/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/Assil10/voice-personality-ai/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Assil10/voice-personality-ai/discussions)
+- **Email**: Khaldi.assil40@gmail.com
 
 ## 🔄 Version History
 

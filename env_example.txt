@@ -1,0 +1,26 @@
+# Voice Personality Analysis System - Environment Configuration
+# Copy this file to .env and fill in your actual values
+
+# Required: Google Gemini API Key
+# Get your API key from: https://makersuite.google.com/app/apikey
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Optional: Analysis Configuration
+ANALYSIS_LANGUAGE=arabic  # Options: arabic, english, french
+OUTPUT_FORMAT=json        # Options: json, csv, txt
+DEBUG_MODE=false          # Options: true, false
+
+# Optional: Performance Settings
+BATCH_SIZE=10             # Number of files to process in batch
+MAX_FILE_SIZE=100         # Maximum file size in MB
+ENABLE_CACHING=true       # Enable result caching
+
+# Optional: Visualization Settings
+VISUALIZATION_STYLE=modern  # Options: modern, classic, minimal
+SAVE_FORMAT=png            # Options: png, jpg, svg, pdf
+DPI=300                    # Image resolution
+
+# Optional: Audio Processing
+AUDIO_FORMAT=wav          # Preferred audio format
+SAMPLE_RATE=22050         # Audio sample rate
+CHUNK_SIZE=1024           # Audio processing chunk size 
